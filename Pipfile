@@ -8,6 +8,7 @@ pandas = "*"
 sklearn = "*"
 keras = "*"
 tensorflow = "*"
+tensorflow-gpu = "*"
 
 [dev-packages]
 
