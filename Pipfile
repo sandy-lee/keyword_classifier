@@ -9,6 +9,7 @@ sklearn = "*"
 keras = "*"
 tensorflow = "*"
 tensorflow-gpu = "*"
+matplotlib = "*"
 
 [dev-packages]
 
