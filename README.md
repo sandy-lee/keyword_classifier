@@ -9,4 +9,4 @@
 -  **gbdt_colab.sav** - this file contains the parameters of a saved model. I cheated a little bit as I used a Gradient Boosted Decision Tree model out-of-box as I knew it would give good perdormance for this type of data. In reality I would experiment with different types of models to see whivh gives the best performamce and optimise accordingly.
   
 ## ⚡ Next Steps:
-- Reimplement the project using Lazy Predict to see if a Gradient Boosted Descision Tree really give the best performance. It would also be good to implement this project using an LLM to see if it can be improved..
+- Reimplement the project using Lazy Predict to see if a Gradient Boosted Descision Tree really give the best performance. It would also be good to implement this project using an LLM to see if it can be improved.
